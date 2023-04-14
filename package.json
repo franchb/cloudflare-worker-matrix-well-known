@@ -4,7 +4,6 @@
   "packageManager": "yarn@3.5.0",
   "private": true,
   "scripts": {
-    "ci": "install --immutable --immutable-cache --check-cache",
     "dev": "wrangler dev src/index.ts",
     "local": "WRANGLER_SEND_METRICS=false wrangler dev src/index.ts --local",
     "local-exp": "wrangler dev src/index.ts --experimental-local",
