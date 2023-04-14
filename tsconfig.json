@@ -14,7 +14,7 @@
     "strictNullChecks": true,
     "target": "esnext",
     "types": [
-      "@cloudflare/workers-types/experimental",
+      "@cloudflare/workers-types/experimental"
     ],
   },
   "include": ["src", "scripts"],
