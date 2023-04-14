@@ -1,0 +1,18 @@
+name = "cloudflare-worker-matrix-well-known"
+compatibility_date = "2023-04-13"
+main = "./src/index.ts"
+# route = { pattern = "franchb.com/.well-known/matrix/*", zone_name = "franchb.com" }
+minify = true
+workers_dev = true
+
+rules = [
+    { type = "ESModule", globs = ["src/*.ts"], fallthrough = false }
+]
+
+#[build]
+#command = "yarn install && yarn run build"
+#watch_dir = "src"
+
+
+[vars]
+MATRIX_SERVER_ADDR = "matrix.franchb.com:8448"

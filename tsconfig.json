@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "alwaysStrict": true,
+    "jsx": "react" /* Specify what JSX code is generated. */,
+    "lib": ["esnext"],
+    "module": "esnext",
+    "moduleResolution": "Node",
+    "noEmit": true,
+    "noImplicitAny": true,
+    "outDir": "dist",
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "strict": true /* Enable all strict type-checking options. */,
+    "strictNullChecks": true,
+    "target": "esnext",
+    "types": [
+      "@cloudflare/workers-types/experimental"
+    ],
+  },
+  "include": ["src", "scripts"],
+  "exclude": ["node_modules", "dist", "test"]
+}
