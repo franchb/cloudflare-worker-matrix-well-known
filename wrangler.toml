@@ -15,4 +15,4 @@ rules = [
 
 
 [vars]
-MATRIX_SERVER_ADDR = "matrix.franchb.com:8448"
+MATRIX_SERVER_ADDR = "matrix.franchb.com:8443"
