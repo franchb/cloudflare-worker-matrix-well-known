@@ -15,8 +15,6 @@
     "target": "esnext",
     "types": [
       "@cloudflare/workers-types/experimental",
-      "vitest/importMeta",
-      "vitest-environment-miniflare/globals"
     ],
   },
   "include": ["src", "scripts"],

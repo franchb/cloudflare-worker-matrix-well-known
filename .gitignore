@@ -1,4 +1,5 @@
 .yarn/*
+/.idea/*
 /dist
 !.yarn/patches
 !.yarn/plugins
