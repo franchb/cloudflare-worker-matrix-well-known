@@ -2,7 +2,7 @@ name = "cloudflare-worker-matrix-well-known"
 compatibility_date = "2023-04-13"
 main = "./src/index.ts"
 # route = { pattern = "franchb.com/.well-known/matrix/*", zone_name = "franchb.com" }
-
+minify = true
 workers_dev = true
 
 rules = [

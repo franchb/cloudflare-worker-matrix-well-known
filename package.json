@@ -15,7 +15,8 @@
     "check": "yarn run clean && tsc -p tsconfig.json",
     "clean": "rm -rf dist/* ||:",
     "commit": "cz",
-    "test": "vitest"
+    "test": "vitest",
+    "publish": "yarn run wrangler publish"
   },
   "repository": {
     "type": "git",
