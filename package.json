@@ -12,7 +12,7 @@
     "build": "yarn run check && yarn run compile",
     "compile": "node ./scripts/build.js",
     "check": "yarn run clean && tsc -p tsconfig.json",
-    "clean": "rm -rf dist/*",
+    "clean": "rm -rf dist/* ||:",
     "commit": "cz",
     "test": "vitest"
   },
