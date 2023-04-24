@@ -42,12 +42,12 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-plugin-n", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:15.7.0"],\
             ["eslint-plugin-promise", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:6.1.1"],\
             ["itty-router", "npm:4.0.0-next.46"],\
-            ["miniflare", "virtual:5968363c2d943e7d69dc9cd904ba99a459f436b5a71a71e17eb5d8f7d15b6b32667b601cbff3539d0344edaa72e288dde7d671c1e8d729868c1860e3766fbdbe#npm:2.13.0"],\
+            ["miniflare", "virtual:bfd279f2050532e93be99d372cdc84b29258d5edc7746d84b2b782402d265c1e12fecc206924cff9f795fde7fb1cbb072fc82f3bf39065ed5c30af4231298e01#npm:2.13.0"],\
             ["typescript", "patch:typescript@npm%3A5.0.4#~builtin<compat/typescript>::version=5.0.4&hash=85af82"],\
             ["vite", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:4.2.1"],\
             ["vitest", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:0.30.1"],\
             ["vitest-environment-miniflare", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:2.13.0"],\
-            ["wrangler", "npm:2.15.1"]\
+            ["wrangler", "npm:2.17.0"]\
           ],\
           "linkType": "SOFT"\
         }]\
@@ -182,16 +182,16 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],\
       ["@esbuild-plugins/node-globals-polyfill", [\
         ["npm:0.1.1", {\
-          "packageLocation": "./.yarn/unplugged/@esbuild-plugins-node-globals-polyfill-virtual-b10fd3ed80/node_modules/@esbuild-plugins/node-globals-polyfill/",\
+          "packageLocation": "./.yarn/unplugged/@esbuild-plugins-node-globals-polyfill-virtual-95611b5ecb/node_modules/@esbuild-plugins/node-globals-polyfill/",\
           "packageDependencies": [\
             ["@esbuild-plugins/node-globals-polyfill", "npm:0.1.1"]\
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:5968363c2d943e7d69dc9cd904ba99a459f436b5a71a71e17eb5d8f7d15b6b32667b601cbff3539d0344edaa72e288dde7d671c1e8d729868c1860e3766fbdbe#npm:0.1.1", {\
-          "packageLocation": "./.yarn/unplugged/@esbuild-plugins-node-globals-polyfill-virtual-b10fd3ed80/node_modules/@esbuild-plugins/node-globals-polyfill/",\
+        ["virtual:bfd279f2050532e93be99d372cdc84b29258d5edc7746d84b2b782402d265c1e12fecc206924cff9f795fde7fb1cbb072fc82f3bf39065ed5c30af4231298e01#npm:0.1.1", {\
+          "packageLocation": "./.yarn/unplugged/@esbuild-plugins-node-globals-polyfill-virtual-95611b5ecb/node_modules/@esbuild-plugins/node-globals-polyfill/",\
           "packageDependencies": [\
-            ["@esbuild-plugins/node-globals-polyfill", "virtual:5968363c2d943e7d69dc9cd904ba99a459f436b5a71a71e17eb5d8f7d15b6b32667b601cbff3539d0344edaa72e288dde7d671c1e8d729868c1860e3766fbdbe#npm:0.1.1"],\
+            ["@esbuild-plugins/node-globals-polyfill", "virtual:bfd279f2050532e93be99d372cdc84b29258d5edc7746d84b2b782402d265c1e12fecc206924cff9f795fde7fb1cbb072fc82f3bf39065ed5c30af4231298e01#npm:0.1.1"],\
             ["@types/esbuild", null],\
             ["esbuild", "npm:0.16.3"]\
           ],\
@@ -217,12 +217,12 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:5968363c2d943e7d69dc9cd904ba99a459f436b5a71a71e17eb5d8f7d15b6b32667b601cbff3539d0344edaa72e288dde7d671c1e8d729868c1860e3766fbdbe#npm:0.1.4", {\
-          "packageLocation": "./.yarn/__virtual__/@esbuild-plugins-node-modules-polyfill-virtual-a94b01bbd3/0/cache/@esbuild-plugins-node-modules-polyfill-npm-0.1.4-3fbc582225-39ff2a8161.zip/node_modules/@esbuild-plugins/node-modules-polyfill/",\
+        ["virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:0.2.2", {\
+          "packageLocation": "./.yarn/__virtual__/@esbuild-plugins-node-modules-polyfill-virtual-acdcc98cbd/0/cache/@esbuild-plugins-node-modules-polyfill-npm-0.2.2-f612681798-73c247a755.zip/node_modules/@esbuild-plugins/node-modules-polyfill/",\
           "packageDependencies": [\
-            ["@esbuild-plugins/node-modules-polyfill", "virtual:5968363c2d943e7d69dc9cd904ba99a459f436b5a71a71e17eb5d8f7d15b6b32667b601cbff3539d0344edaa72e288dde7d671c1e8d729868c1860e3766fbdbe#npm:0.1.4"],\
+            ["@esbuild-plugins/node-modules-polyfill", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:0.2.2"],\
             ["@types/esbuild", null],\
-            ["esbuild", "npm:0.16.3"],\
+            ["esbuild", "npm:0.17.16"],\
             ["escape-string-regexp", "npm:4.0.0"],\
             ["rollup-plugin-node-polyfills", "npm:0.2.1"]\
           ],\
@@ -232,12 +232,12 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:0.2.2", {\
-          "packageLocation": "./.yarn/__virtual__/@esbuild-plugins-node-modules-polyfill-virtual-acdcc98cbd/0/cache/@esbuild-plugins-node-modules-polyfill-npm-0.2.2-f612681798-73c247a755.zip/node_modules/@esbuild-plugins/node-modules-polyfill/",\
+        ["virtual:bfd279f2050532e93be99d372cdc84b29258d5edc7746d84b2b782402d265c1e12fecc206924cff9f795fde7fb1cbb072fc82f3bf39065ed5c30af4231298e01#npm:0.1.4", {\
+          "packageLocation": "./.yarn/__virtual__/@esbuild-plugins-node-modules-polyfill-virtual-d5684792ab/0/cache/@esbuild-plugins-node-modules-polyfill-npm-0.1.4-3fbc582225-39ff2a8161.zip/node_modules/@esbuild-plugins/node-modules-polyfill/",\
           "packageDependencies": [\
-            ["@esbuild-plugins/node-modules-polyfill", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:0.2.2"],\
+            ["@esbuild-plugins/node-modules-polyfill", "virtual:bfd279f2050532e93be99d372cdc84b29258d5edc7746d84b2b782402d265c1e12fecc206924cff9f795fde7fb1cbb072fc82f3bf39065ed5c30af4231298e01#npm:0.1.4"],\
             ["@types/esbuild", null],\
-            ["esbuild", "npm:0.17.16"],\
+            ["esbuild", "npm:0.16.3"],\
             ["escape-string-regexp", "npm:4.0.0"],\
             ["rollup-plugin-node-polyfills", "npm:0.2.1"]\
           ],\
@@ -2075,12 +2075,12 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-plugin-n", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:15.7.0"],\
             ["eslint-plugin-promise", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:6.1.1"],\
             ["itty-router", "npm:4.0.0-next.46"],\
-            ["miniflare", "virtual:5968363c2d943e7d69dc9cd904ba99a459f436b5a71a71e17eb5d8f7d15b6b32667b601cbff3539d0344edaa72e288dde7d671c1e8d729868c1860e3766fbdbe#npm:2.13.0"],\
+            ["miniflare", "virtual:bfd279f2050532e93be99d372cdc84b29258d5edc7746d84b2b782402d265c1e12fecc206924cff9f795fde7fb1cbb072fc82f3bf39065ed5c30af4231298e01#npm:2.13.0"],\
             ["typescript", "patch:typescript@npm%3A5.0.4#~builtin<compat/typescript>::version=5.0.4&hash=85af82"],\
             ["vite", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:4.2.1"],\
             ["vitest", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:0.30.1"],\
             ["vitest-environment-miniflare", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:2.13.0"],\
-            ["wrangler", "npm:2.15.1"]\
+            ["wrangler", "npm:2.17.0"]\
           ],\
           "linkType": "SOFT"\
         }]\
@@ -4560,10 +4560,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:5968363c2d943e7d69dc9cd904ba99a459f436b5a71a71e17eb5d8f7d15b6b32667b601cbff3539d0344edaa72e288dde7d671c1e8d729868c1860e3766fbdbe#npm:2.13.0", {\
-          "packageLocation": "./.yarn/__virtual__/miniflare-virtual-a8ca05a1aa/0/cache/miniflare-npm-2.13.0-8fff325abf-04af58399c.zip/node_modules/miniflare/",\
+        ["virtual:bfd279f2050532e93be99d372cdc84b29258d5edc7746d84b2b782402d265c1e12fecc206924cff9f795fde7fb1cbb072fc82f3bf39065ed5c30af4231298e01#npm:2.13.0", {\
+          "packageLocation": "./.yarn/__virtual__/miniflare-virtual-27477dff7e/0/cache/miniflare-npm-2.13.0-8fff325abf-04af58399c.zip/node_modules/miniflare/",\
           "packageDependencies": [\
-            ["miniflare", "virtual:5968363c2d943e7d69dc9cd904ba99a459f436b5a71a71e17eb5d8f7d15b6b32667b601cbff3539d0344edaa72e288dde7d671c1e8d729868c1860e3766fbdbe#npm:2.13.0"],\
+            ["miniflare", "virtual:bfd279f2050532e93be99d372cdc84b29258d5edc7746d84b2b782402d265c1e12fecc206924cff9f795fde7fb1cbb072fc82f3bf39065ed5c30af4231298e01#npm:2.13.0"],\
             ["@miniflare/cache", "npm:2.13.0"],\
             ["@miniflare/cli-parser", "npm:2.13.0"],\
             ["@miniflare/core", "npm:2.13.0"],\
@@ -6562,13 +6562,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["wrangler", [\
-        ["npm:2.15.1", {\
-          "packageLocation": "./.yarn/cache/wrangler-npm-2.15.1-5968363c2d-c4e49cf609.zip/node_modules/wrangler/",\
+        ["npm:2.17.0", {\
+          "packageLocation": "./.yarn/cache/wrangler-npm-2.17.0-bfd279f205-e1d8b143ff.zip/node_modules/wrangler/",\
           "packageDependencies": [\
-            ["wrangler", "npm:2.15.1"],\
+            ["wrangler", "npm:2.17.0"],\
             ["@cloudflare/kv-asset-handler", "npm:0.2.0"],\
-            ["@esbuild-plugins/node-globals-polyfill", "virtual:5968363c2d943e7d69dc9cd904ba99a459f436b5a71a71e17eb5d8f7d15b6b32667b601cbff3539d0344edaa72e288dde7d671c1e8d729868c1860e3766fbdbe#npm:0.1.1"],\
-            ["@esbuild-plugins/node-modules-polyfill", "virtual:5968363c2d943e7d69dc9cd904ba99a459f436b5a71a71e17eb5d8f7d15b6b32667b601cbff3539d0344edaa72e288dde7d671c1e8d729868c1860e3766fbdbe#npm:0.1.4"],\
+            ["@esbuild-plugins/node-globals-polyfill", "virtual:bfd279f2050532e93be99d372cdc84b29258d5edc7746d84b2b782402d265c1e12fecc206924cff9f795fde7fb1cbb072fc82f3bf39065ed5c30af4231298e01#npm:0.1.1"],\
+            ["@esbuild-plugins/node-modules-polyfill", "virtual:bfd279f2050532e93be99d372cdc84b29258d5edc7746d84b2b782402d265c1e12fecc206924cff9f795fde7fb1cbb072fc82f3bf39065ed5c30af4231298e01#npm:0.1.4"],\
             ["@miniflare/core", "npm:2.13.0"],\
             ["@miniflare/d1", "npm:2.13.0"],\
             ["@miniflare/durable-objects", "npm:2.13.0"],\
@@ -6576,7 +6576,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["chokidar", "npm:3.5.3"],\
             ["esbuild", "npm:0.16.3"],\
             ["fsevents", "patch:fsevents@npm%3A2.3.2#~builtin<compat/fsevents>::version=2.3.2&hash=df0bf1"],\
-            ["miniflare", "virtual:5968363c2d943e7d69dc9cd904ba99a459f436b5a71a71e17eb5d8f7d15b6b32667b601cbff3539d0344edaa72e288dde7d671c1e8d729868c1860e3766fbdbe#npm:2.13.0"],\
+            ["miniflare", "virtual:bfd279f2050532e93be99d372cdc84b29258d5edc7746d84b2b782402d265c1e12fecc206924cff9f795fde7fb1cbb072fc82f3bf39065ed5c30af4231298e01#npm:2.13.0"],\
             ["nanoid", "npm:3.3.6"],\
             ["path-to-regexp", "npm:6.2.1"],\
             ["selfsigned", "npm:2.1.1"],\
