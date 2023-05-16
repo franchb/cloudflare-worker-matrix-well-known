@@ -41,10 +41,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@cloudflare/workers-types@npm:^4.20221111.1, @cloudflare/workers-types@npm:^4.20230404.0":
+"@cloudflare/workers-types@npm:^4.20221111.1":
   version: 4.20230404.0
   resolution: "@cloudflare/workers-types@npm:4.20230404.0"
   checksum: 0e8606e00668ce19c0c46238b07514853d8079cdc2667a6270cb1da621d2284afdcffc721c05016020b05cccdc48503ea1454300b77457db5373dcc99e9455c7
+  languageName: node
+  linkType: hard
+
+"@cloudflare/workers-types@npm:^4.20230511.0":
+  version: 4.20230511.0
+  resolution: "@cloudflare/workers-types@npm:4.20230511.0"
+  checksum: fc69d6e25fea4feb2c5956b1457166e3997212609b8e0a5bd9a8bbec4427f5c7d729000327077370b79de4f387df9a6e7a72e04a18d7998bcfaa70816c95d0c4
   languageName: node
   linkType: hard
 
@@ -1849,7 +1856,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "cloudflare-worker-matrix-well-known@workspace:."
   dependencies:
-    "@cloudflare/workers-types": ^4.20230404.0
+    "@cloudflare/workers-types": ^4.20230511.0
     "@esbuild-plugins/node-modules-polyfill": ^0.2.2
     "@miniflare/core": ^2.13.0
     "@types/eslint": ^8

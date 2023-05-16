@@ -23,7 +23,7 @@
     "url": "git+https://github.com/franchb/cloudflare-worker-matrix-well-known.git"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20230404.0",
+    "@cloudflare/workers-types": "^4.20230511.0",
     "@esbuild-plugins/node-modules-polyfill": "^0.2.2",
     "@miniflare/core": "^2.13.0",
     "@types/eslint": "^8",
