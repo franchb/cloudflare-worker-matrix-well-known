@@ -1862,7 +1862,7 @@ __metadata:
     eslint-plugin-import: ^2.27.5
     eslint-plugin-n: ^15.7.0
     eslint-plugin-promise: ^6.1.1
-    itty-router: v4.0.0-next.46
+    itty-router: v4.0.0-next.52
     miniflare: ^2.14.0
     typescript: "*"
     vite: ^4.3.5
@@ -3680,10 +3680,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"itty-router@npm:v4.0.0-next.46":
-  version: 4.0.0-next.46
-  resolution: "itty-router@npm:4.0.0-next.46"
-  checksum: 5d31ac86834499b2440273243668a224953f1299798fa74cc91a88219ea9ccbff604252b93c70509400123f4c002ad9d42a79812ed450b4e5d37348a04600aca
+"itty-router@npm:v4.0.0-next.52":
+  version: 4.0.0-next.52
+  resolution: "itty-router@npm:4.0.0-next.52"
+  checksum: 791550713272cae1ffd422a7961058996341bfcc030f1d2e90f3c88866f7765c36c9624d0f1cb465fb59329fec3b793ba090f5a4b30e0173ac16cca74f3c9351
   languageName: node
   linkType: hard
 
