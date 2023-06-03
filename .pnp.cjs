@@ -28,7 +28,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {\
           "packageLocation": "./",\
           "packageDependencies": [\
-            ["@cloudflare/workers-types", "npm:4.20230404.0"],\
+            ["@cloudflare/workers-types", "npm:4.20230518.0"],\
             ["@esbuild-plugins/node-modules-polyfill", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:0.2.2"],\
             ["@miniflare/core", "npm:2.13.0"],\
             ["@types/eslint", "npm:8.37.0"],\
@@ -98,6 +98,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/@cloudflare-workers-types-npm-4.20230404.0-b75fdfd9c0-0e8606e006.zip/node_modules/@cloudflare/workers-types/",\
           "packageDependencies": [\
             ["@cloudflare/workers-types", "npm:4.20230404.0"]\
+          ],\
+          "linkType": "HARD"\
+        }],\
+        ["npm:4.20230518.0", {\
+          "packageLocation": "./.yarn/cache/@cloudflare-workers-types-npm-4.20230518.0-65e8164967-69c861437f.zip/node_modules/@cloudflare/workers-types/",\
+          "packageDependencies": [\
+            ["@cloudflare/workers-types", "npm:4.20230518.0"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -2399,7 +2406,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",\
           "packageDependencies": [\
             ["cloudflare-worker-matrix-well-known", "workspace:."],\
-            ["@cloudflare/workers-types", "npm:4.20230404.0"],\
+            ["@cloudflare/workers-types", "npm:4.20230518.0"],\
             ["@esbuild-plugins/node-modules-polyfill", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:0.2.2"],\
             ["@miniflare/core", "npm:2.13.0"],\
             ["@types/eslint", "npm:8.37.0"],\
