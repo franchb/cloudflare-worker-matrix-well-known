@@ -44,7 +44,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["itty-router", "npm:4.0.6"],\
             ["miniflare", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:2.14.0"],\
             ["typescript", "patch:typescript@npm%3A5.0.4#~builtin<compat/typescript>::version=5.0.4&hash=85af82"],\
-            ["vite", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:4.3.5"],\
+            ["vite", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:4.3.9"],\
             ["vitest", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:0.30.1"],\
             ["vitest-environment-miniflare", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:2.13.0"],\
             ["wrangler", "npm:3.1.0"]\
@@ -2535,7 +2535,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["itty-router", "npm:4.0.6"],\
             ["miniflare", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:2.14.0"],\
             ["typescript", "patch:typescript@npm%3A5.0.4#~builtin<compat/typescript>::version=5.0.4&hash=85af82"],\
-            ["vite", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:4.3.5"],\
+            ["vite", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:4.3.9"],\
             ["vitest", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:0.30.1"],\
             ["vitest-environment-miniflare", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:2.13.0"],\
             ["wrangler", "npm:3.1.0"]\
@@ -7117,10 +7117,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "SOFT"\
         }],\
-        ["npm:4.3.5", {\
-          "packageLocation": "./.yarn/cache/vite-npm-4.3.5-f8c81562b1-6b7f2189f0.zip/node_modules/vite/",\
+        ["npm:4.3.9", {\
+          "packageLocation": "./.yarn/cache/vite-npm-4.3.9-24f3552941-8c45a51627.zip/node_modules/vite/",\
           "packageDependencies": [\
-            ["vite", "npm:4.3.5"]\
+            ["vite", "npm:4.3.9"]\
           ],\
           "linkType": "SOFT"\
         }],\
@@ -7160,10 +7160,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:4.3.5", {\
-          "packageLocation": "./.yarn/__virtual__/vite-virtual-35e9e63e5c/0/cache/vite-npm-4.3.5-f8c81562b1-6b7f2189f0.zip/node_modules/vite/",\
+        ["virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:4.3.9", {\
+          "packageLocation": "./.yarn/__virtual__/vite-virtual-db739b1b7b/0/cache/vite-npm-4.3.9-24f3552941-8c45a51627.zip/node_modules/vite/",\
           "packageDependencies": [\
-            ["vite", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:4.3.5"],\
+            ["vite", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:4.3.9"],\
             ["@types/less", null],\
             ["@types/node", null],\
             ["@types/sass", null],\
