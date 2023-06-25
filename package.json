@@ -50,7 +50,7 @@
   },
   "homepage": "https://github.com/franchb/cloudflare-worker-matrix-well-known#readme",
   "dependencies": {
-    "itty-router": "v4.0.6"
+    "itty-router": "v4.0.13"
   },
   "config": {
     "commitizen": {
