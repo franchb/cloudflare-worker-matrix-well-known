@@ -36,7 +36,7 @@
     "eslint-plugin-import": "^2.27.5",
     "eslint-plugin-n": "^15.7.0",
     "eslint-plugin-promise": "^6.1.1",
-    "miniflare": "^2.14.0",
+    "miniflare": "^3.20230628.0",
     "typescript": "*",
     "vite": "^4.3.9",
     "vitest": "^0.30.1",
