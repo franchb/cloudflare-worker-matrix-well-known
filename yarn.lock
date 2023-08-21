@@ -983,7 +983,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@miniflare/core@npm:2.13.0, @miniflare/core@npm:^2.13.0":
+"@miniflare/core@npm:2.13.0":
   version: 2.13.0
   resolution: "@miniflare/core@npm:2.13.0"
   dependencies:
@@ -998,6 +998,24 @@ __metadata:
     undici: 5.20.0
     urlpattern-polyfill: ^4.0.3
   checksum: ecda8f922c4a080a4d15595a8d352e7f91d0ac22668fc3eca81a93770be4fcae222c1d380ab49d135fbc0a9ad4e8daf073696a3d4f9f72e633a485d4db6284ee
+  languageName: node
+  linkType: hard
+
+"@miniflare/core@npm:^2.14.0":
+  version: 2.14.0
+  resolution: "@miniflare/core@npm:2.14.0"
+  dependencies:
+    "@iarna/toml": ^2.2.5
+    "@miniflare/queues": 2.14.0
+    "@miniflare/shared": 2.14.0
+    "@miniflare/watcher": 2.14.0
+    busboy: ^1.6.0
+    dotenv: ^10.0.0
+    kleur: ^4.1.4
+    set-cookie-parser: ^2.4.8
+    undici: 5.20.0
+    urlpattern-polyfill: ^4.0.3
+  checksum: 0482e67d262cfac87fa9e7267706cb11e6a1f28a6a433f87ac69cdd841ed23a6ff6fe53fb56b91f82f310bf61a4541726adbc20efaf5f90126d64d25e1fa21c1
   languageName: node
   linkType: hard
 
@@ -1053,6 +1071,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@miniflare/queues@npm:2.14.0":
+  version: 2.14.0
+  resolution: "@miniflare/queues@npm:2.14.0"
+  dependencies:
+    "@miniflare/shared": 2.14.0
+  checksum: 00f72e8a8b4ba27b25ff1c091da1b8cab57cedeb0ab6cb55d9314dcd045c9cd7133a7761940eb5794dffa77cf70ff5ebbb8805ad5914ca0400df56d321292016
+  languageName: node
+  linkType: hard
+
 "@miniflare/r2@npm:2.13.0":
   version: 2.13.0
   resolution: "@miniflare/r2@npm:2.13.0"
@@ -1105,6 +1132,18 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@miniflare/shared@npm:2.14.0":
+  version: 2.14.0
+  resolution: "@miniflare/shared@npm:2.14.0"
+  dependencies:
+    "@types/better-sqlite3": ^7.6.0
+    kleur: ^4.1.4
+    npx-import: ^1.1.4
+    picomatch: ^2.3.1
+  checksum: 84a4d5e265e28fc8a7b6f8c32b505edbcf1d6bc70354a05e0febf63ac2d1d4045a82eeb0f8cb52090b913a8d1133c87c5d18e0dd9232980c624f1d97e4541bab
+  languageName: node
+  linkType: hard
+
 "@miniflare/sites@npm:2.13.0":
   version: 2.13.0
   resolution: "@miniflare/sites@npm:2.13.0"
@@ -1141,6 +1180,15 @@ __metadata:
   dependencies:
     "@miniflare/shared": 2.13.0
   checksum: 8fa73acf63c3023ee4ef797470dace2bdea1b29878b36e88c4c6a1dbc11102000f6ffe904143e7f414bc80d9dd56c3c567cb994b73f35aa2cdd7c8751cd4e303
+  languageName: node
+  linkType: hard
+
+"@miniflare/watcher@npm:2.14.0":
+  version: 2.14.0
+  resolution: "@miniflare/watcher@npm:2.14.0"
+  dependencies:
+    "@miniflare/shared": 2.14.0
+  checksum: 3733918970fd376cfab15e8caf283d74e012c59cc8e5e95aae20bc5b3abdc8a6e02a4bc928892600e03bf43f1747c8a27380f65fe1eca8c63c9baafd3ac0ce6a
   languageName: node
   linkType: hard
 
@@ -2111,7 +2159,7 @@ __metadata:
   dependencies:
     "@cloudflare/workers-types": ^4.20230518.0
     "@esbuild-plugins/node-modules-polyfill": ^0.2.2
-    "@miniflare/core": ^2.13.0
+    "@miniflare/core": ^2.14.0
     "@types/eslint": ^8
     "@typescript-eslint/eslint-plugin": ^5.59.8
     commitizen: ^4.3.0
