@@ -39,7 +39,7 @@
     "miniflare": "^3.20230628.0",
     "typescript": "*",
     "vite": "^4.4.9",
-    "vitest": "^0.30.1",
+    "vitest": "^0.34.5",
     "vitest-environment-miniflare": "^2.14.1",
     "wrangler": "^3.1.1"
   },
