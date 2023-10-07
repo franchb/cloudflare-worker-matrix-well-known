@@ -5973,20 +5973,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["postcss", [\
-        ["npm:8.4.21", {\
-          "packageLocation": "./.yarn/cache/postcss-npm-8.4.21-9ad76bf58d-e39ac60ccd.zip/node_modules/postcss/",\
+        ["npm:8.4.31", {\
+          "packageLocation": "./.yarn/cache/postcss-npm-8.4.31-385051a82b-1d8611341b.zip/node_modules/postcss/",\
           "packageDependencies": [\
-            ["postcss", "npm:8.4.21"],\
-            ["nanoid", "npm:3.3.6"],\
-            ["picocolors", "npm:1.0.0"],\
-            ["source-map-js", "npm:1.0.2"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
-        ["npm:8.4.27", {\
-          "packageLocation": "./.yarn/cache/postcss-npm-8.4.27-2a9f5f8f40-1cdd0c2988.zip/node_modules/postcss/",\
-          "packageDependencies": [\
-            ["postcss", "npm:8.4.27"],\
+            ["postcss", "npm:8.4.31"],\
             ["nanoid", "npm:3.3.6"],\
             ["picocolors", "npm:1.0.0"],\
             ["source-map-js", "npm:1.0.2"]\
@@ -7297,7 +7287,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["esbuild", "npm:0.17.16"],\
             ["fsevents", "patch:fsevents@npm%3A2.3.2#~builtin<compat/fsevents>::version=2.3.2&hash=df0bf1"],\
             ["less", null],\
-            ["postcss", "npm:8.4.21"],\
+            ["postcss", "npm:8.4.31"],\
             ["resolve", "patch:resolve@npm%3A1.22.2#~builtin<compat/resolve>::version=1.22.2&hash=c3c19d"],\
             ["rollup", "npm:3.20.2"],\
             ["sass", null],\
@@ -7335,7 +7325,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["fsevents", "patch:fsevents@npm%3A2.3.2#~builtin<compat/fsevents>::version=2.3.2&hash=df0bf1"],\
             ["less", null],\
             ["lightningcss", null],\
-            ["postcss", "npm:8.4.27"],\
+            ["postcss", "npm:8.4.31"],\
             ["rollup", "npm:3.28.0"],\
             ["sass", null],\
             ["stylus", null],\
@@ -7372,7 +7362,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["esbuild", "npm:0.17.16"],\
             ["fsevents", "patch:fsevents@npm%3A2.3.2#~builtin<compat/fsevents>::version=2.3.2&hash=df0bf1"],\
             ["less", null],\
-            ["postcss", "npm:8.4.21"],\
+            ["postcss", "npm:8.4.31"],\
             ["resolve", "patch:resolve@npm%3A1.22.2#~builtin<compat/resolve>::version=1.22.2&hash=c3c19d"],\
             ["rollup", "npm:3.20.2"],\
             ["sass", null],\
