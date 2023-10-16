@@ -5300,7 +5300,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["workerd", "npm:1.20230628.0"],\
             ["ws", "virtual:c89409e7d48e58550a06feb6b7fede552fe8c43d9ab4e1c894626a71d9a731dd60174e99f897fce58a34a61224ed868ce075bcf851d762342cbf12e8a876bc1a#npm:8.13.0"],\
             ["youch", "npm:3.2.3"],\
-            ["zod", "npm:3.21.4"]\
+            ["zod", "npm:3.22.4"]\
           ],\
           "linkType": "HARD"\
         }],\
@@ -5323,7 +5323,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["workerd", "npm:1.20230724.0"],\
             ["ws", "virtual:c89409e7d48e58550a06feb6b7fede552fe8c43d9ab4e1c894626a71d9a731dd60174e99f897fce58a34a61224ed868ce075bcf851d762342cbf12e8a876bc1a#npm:8.13.0"],\
             ["youch", "npm:3.2.3"],\
-            ["zod", "npm:3.21.4"]\
+            ["zod", "npm:3.22.4"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -7763,10 +7763,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["zod", [\
-        ["npm:3.21.4", {\
-          "packageLocation": "./.yarn/cache/zod-npm-3.21.4-9f570b215c-f185ba8734.zip/node_modules/zod/",\
+        ["npm:3.22.4", {\
+          "packageLocation": "./.yarn/cache/zod-npm-3.22.4-2bccbc41b4-80bfd7f803.zip/node_modules/zod/",\
           "packageDependencies": [\
-            ["zod", "npm:3.21.4"]\
+            ["zod", "npm:3.22.4"]\
           ],\
           "linkType": "HARD"\
         }]\
