@@ -2158,7 +2158,7 @@ __metadata:
     eslint-plugin-n: ^16.2.0
     eslint-plugin-promise: ^6.1.1
     itty-router: v4.0.14
-    miniflare: ^3.20231030.0
+    miniflare: ^3.20231030.1
     typescript: "*"
     vite: ^4.4.9
     vitest: ^0.30.1
@@ -4651,9 +4651,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"miniflare@npm:^3.20231030.0":
-  version: 3.20231030.0
-  resolution: "miniflare@npm:3.20231030.0"
+"miniflare@npm:^3.20231030.1":
+  version: 3.20231030.1
+  resolution: "miniflare@npm:3.20231030.1"
   dependencies:
     acorn: ^8.8.0
     acorn-walk: ^8.2.0
@@ -4669,7 +4669,7 @@ __metadata:
     zod: ^3.20.6
   bin:
     miniflare: bootstrap.js
-  checksum: 506a143f86571cc5f870985ca76afa5b7f5b479c801a4ad04d562da47b1dc5edb556b7ae93e490c5d7a7b45ffee5e5dba28be699fb9ad497c394a6da779bb6c4
+  checksum: 496cc6e75d80be5d09f706358db9c818ccbdca88e7342e43efa34f0d89ede3655c09c465c4c6515f2b5ce202fe8d16c2e4acb56bcb345af26127d8d84c84b77d
   languageName: node
   linkType: hard
 
