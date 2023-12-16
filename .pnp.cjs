@@ -42,7 +42,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-plugin-n", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:16.2.0"],\
             ["eslint-plugin-promise", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:6.1.1"],\
             ["itty-router", "npm:4.0.14"],\
-            ["miniflare", "npm:3.20231030.0"],\
+            ["miniflare", "npm:3.20231030.4"],\
             ["typescript", "patch:typescript@npm%3A5.0.4#~builtin<compat/typescript>::version=5.0.4&hash=85af82"],\
             ["vite", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:5.0.7"],\
             ["vitest", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:1.0.4"],\
@@ -1230,7 +1230,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@miniflare/core", "npm:2.14.1"],\
             ["@miniflare/shared", "npm:2.14.1"],\
             ["undici", "npm:5.20.0"],\
-            ["ws", "virtual:406e131bcf13079eb7eedaee643965ae075062bac4a7d44151c878d3c75413642a4a79a60f18ca5d8d44980fed1e98d7d11012280902abadfccfa4b4cd0f9c85#npm:8.13.0"]\
+            ["ws", "virtual:45212cbd0056958c66f1a9650604faa07122bcba4e69c693a0e21b50f5659042218e415f38bded335886ae2311b277384a1f01b468dbf6f1f7572781abf42847#npm:8.13.0"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -2560,7 +2560,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-plugin-n", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:16.2.0"],\
             ["eslint-plugin-promise", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:6.1.1"],\
             ["itty-router", "npm:4.0.14"],\
-            ["miniflare", "npm:3.20231030.0"],\
+            ["miniflare", "npm:3.20231030.4"],\
             ["typescript", "patch:typescript@npm%3A5.0.4#~builtin<compat/typescript>::version=5.0.4&hash=85af82"],\
             ["vite", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:5.0.7"],\
             ["vitest", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:1.0.4"],\
@@ -5259,16 +5259,16 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["stoppable", "npm:1.1.0"],\
             ["undici", "npm:5.22.1"],\
             ["workerd", "npm:1.20230724.0"],\
-            ["ws", "virtual:406e131bcf13079eb7eedaee643965ae075062bac4a7d44151c878d3c75413642a4a79a60f18ca5d8d44980fed1e98d7d11012280902abadfccfa4b4cd0f9c85#npm:8.13.0"],\
+            ["ws", "virtual:45212cbd0056958c66f1a9650604faa07122bcba4e69c693a0e21b50f5659042218e415f38bded335886ae2311b277384a1f01b468dbf6f1f7572781abf42847#npm:8.13.0"],\
             ["youch", "npm:3.2.3"],\
             ["zod", "npm:3.22.4"]\
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:3.20231030.0", {\
-          "packageLocation": "./.yarn/cache/miniflare-npm-3.20231030.0-406e131bcf-506a143f86.zip/node_modules/miniflare/",\
+        ["npm:3.20231030.4", {\
+          "packageLocation": "./.yarn/cache/miniflare-npm-3.20231030.4-45212cbd00-7b4316ca1f.zip/node_modules/miniflare/",\
           "packageDependencies": [\
-            ["miniflare", "npm:3.20231030.0"],\
+            ["miniflare", "npm:3.20231030.4"],\
             ["acorn", "npm:8.8.2"],\
             ["acorn-walk", "npm:8.2.0"],\
             ["capnp-ts", "npm:0.7.0"],\
@@ -5278,7 +5278,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["stoppable", "npm:1.1.0"],\
             ["undici", "npm:5.27.2"],\
             ["workerd", "npm:1.20231030.0"],\
-            ["ws", "virtual:406e131bcf13079eb7eedaee643965ae075062bac4a7d44151c878d3c75413642a4a79a60f18ca5d8d44980fed1e98d7d11012280902abadfccfa4b4cd0f9c85#npm:8.13.0"],\
+            ["ws", "virtual:45212cbd0056958c66f1a9650604faa07122bcba4e69c693a0e21b50f5659042218e415f38bded335886ae2311b277384a1f01b468dbf6f1f7572781abf42847#npm:8.13.0"],\
             ["youch", "npm:3.2.3"],\
             ["zod", "npm:3.22.4"]\
           ],\
@@ -7650,10 +7650,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:406e131bcf13079eb7eedaee643965ae075062bac4a7d44151c878d3c75413642a4a79a60f18ca5d8d44980fed1e98d7d11012280902abadfccfa4b4cd0f9c85#npm:8.13.0", {\
-          "packageLocation": "./.yarn/__virtual__/ws-virtual-6ab84ff3c5/0/cache/ws-npm-8.13.0-26ffa3016a-53e991bbf9.zip/node_modules/ws/",\
+        ["virtual:45212cbd0056958c66f1a9650604faa07122bcba4e69c693a0e21b50f5659042218e415f38bded335886ae2311b277384a1f01b468dbf6f1f7572781abf42847#npm:8.13.0", {\
+          "packageLocation": "./.yarn/__virtual__/ws-virtual-338675a9d3/0/cache/ws-npm-8.13.0-26ffa3016a-53e991bbf9.zip/node_modules/ws/",\
           "packageDependencies": [\
-            ["ws", "virtual:406e131bcf13079eb7eedaee643965ae075062bac4a7d44151c878d3c75413642a4a79a60f18ca5d8d44980fed1e98d7d11012280902abadfccfa4b4cd0f9c85#npm:8.13.0"],\
+            ["ws", "virtual:45212cbd0056958c66f1a9650604faa07122bcba4e69c693a0e21b50f5659042218e415f38bded335886ae2311b277384a1f01b468dbf6f1f7572781abf42847#npm:8.13.0"],\
             ["@types/bufferutil", null],\
             ["@types/utf-8-validate", null],\
             ["bufferutil", null],\
