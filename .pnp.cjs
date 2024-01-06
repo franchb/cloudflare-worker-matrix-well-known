@@ -42,7 +42,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-plugin-n", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:16.2.0"],\
             ["eslint-plugin-promise", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:6.1.1"],\
             ["itty-router", "npm:4.0.14"],\
-            ["miniflare", "npm:3.20231030.0"],\
+            ["miniflare", "npm:3.20231218.1"],\
             ["typescript", "patch:typescript@npm%3A5.0.4#~builtin<compat/typescript>::version=5.0.4&hash=85af82"],\
             ["vite", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:5.0.7"],\
             ["vitest", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:1.0.4"],\
@@ -103,13 +103,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@cloudflare/workerd-darwin-64", [\
-        ["npm:1.20231030.0", {\
-          "packageLocation": "./.yarn/unplugged/@cloudflare-workerd-darwin-64-npm-1.20231030.0-3d78d217cf/node_modules/@cloudflare/workerd-darwin-64/",\
-          "packageDependencies": [\
-            ["@cloudflare/workerd-darwin-64", "npm:1.20231030.0"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
         ["npm:1.20231218.0", {\
           "packageLocation": "./.yarn/unplugged/@cloudflare-workerd-darwin-64-npm-1.20231218.0-d8702fff52/node_modules/@cloudflare/workerd-darwin-64/",\
           "packageDependencies": [\
@@ -119,13 +112,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@cloudflare/workerd-darwin-arm64", [\
-        ["npm:1.20231030.0", {\
-          "packageLocation": "./.yarn/unplugged/@cloudflare-workerd-darwin-arm64-npm-1.20231030.0-4ffea18d7c/node_modules/@cloudflare/workerd-darwin-arm64/",\
-          "packageDependencies": [\
-            ["@cloudflare/workerd-darwin-arm64", "npm:1.20231030.0"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
         ["npm:1.20231218.0", {\
           "packageLocation": "./.yarn/unplugged/@cloudflare-workerd-darwin-arm64-npm-1.20231218.0-a9353865f7/node_modules/@cloudflare/workerd-darwin-arm64/",\
           "packageDependencies": [\
@@ -135,13 +121,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@cloudflare/workerd-linux-64", [\
-        ["npm:1.20231030.0", {\
-          "packageLocation": "./.yarn/unplugged/@cloudflare-workerd-linux-64-npm-1.20231030.0-807c4e2a95/node_modules/@cloudflare/workerd-linux-64/",\
-          "packageDependencies": [\
-            ["@cloudflare/workerd-linux-64", "npm:1.20231030.0"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
         ["npm:1.20231218.0", {\
           "packageLocation": "./.yarn/unplugged/@cloudflare-workerd-linux-64-npm-1.20231218.0-37fabbd5d5/node_modules/@cloudflare/workerd-linux-64/",\
           "packageDependencies": [\
@@ -151,13 +130,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@cloudflare/workerd-linux-arm64", [\
-        ["npm:1.20231030.0", {\
-          "packageLocation": "./.yarn/unplugged/@cloudflare-workerd-linux-arm64-npm-1.20231030.0-8160b53a0a/node_modules/@cloudflare/workerd-linux-arm64/",\
-          "packageDependencies": [\
-            ["@cloudflare/workerd-linux-arm64", "npm:1.20231030.0"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
         ["npm:1.20231218.0", {\
           "packageLocation": "./.yarn/unplugged/@cloudflare-workerd-linux-arm64-npm-1.20231218.0-61b3409cf3/node_modules/@cloudflare/workerd-linux-arm64/",\
           "packageDependencies": [\
@@ -167,13 +139,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@cloudflare/workerd-windows-64", [\
-        ["npm:1.20231030.0", {\
-          "packageLocation": "./.yarn/unplugged/@cloudflare-workerd-windows-64-npm-1.20231030.0-4e35119bdc/node_modules/@cloudflare/workerd-windows-64/",\
-          "packageDependencies": [\
-            ["@cloudflare/workerd-windows-64", "npm:1.20231030.0"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
         ["npm:1.20231218.0", {\
           "packageLocation": "./.yarn/unplugged/@cloudflare-workerd-windows-64-npm-1.20231218.0-126ea7642b/node_modules/@cloudflare/workerd-windows-64/",\
           "packageDependencies": [\
@@ -1054,7 +1019,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@miniflare/core", "npm:2.14.1"],\
             ["@miniflare/shared", "npm:2.14.1"],\
             ["undici", "npm:5.20.0"],\
-            ["ws", "virtual:406e131bcf13079eb7eedaee643965ae075062bac4a7d44151c878d3c75413642a4a79a60f18ca5d8d44980fed1e98d7d11012280902abadfccfa4b4cd0f9c85#npm:8.13.0"]\
+            ["ws", "virtual:f592bce758c2754afe855892656ae53734adcf6d96299cd1ee5fbb7d94c8f09761064e8c4cece21444f68feb3e626d3a4f91e34b2233ba8fbdbf9e1f1a2d69c3#npm:8.13.0"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -2103,15 +2068,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD"\
         }]\
       ]],\
-      ["buffer-from", [\
-        ["npm:1.1.2", {\
-          "packageLocation": "./.yarn/cache/buffer-from-npm-1.1.2-03d2f20d7e-0448524a56.zip/node_modules/buffer-from/",\
-          "packageDependencies": [\
-            ["buffer-from", "npm:1.1.2"]\
-          ],\
-          "linkType": "HARD"\
-        }]\
-      ]],\
       ["builtins", [\
         ["npm:5.0.1", {\
           "packageLocation": "./.yarn/cache/builtins-npm-5.0.1-6d4820dd76-66d204657f.zip/node_modules/builtins/",\
@@ -2355,7 +2311,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-plugin-n", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:16.2.0"],\
             ["eslint-plugin-promise", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:6.1.1"],\
             ["itty-router", "npm:4.0.14"],\
-            ["miniflare", "npm:3.20231030.0"],\
+            ["miniflare", "npm:3.20231218.1"],\
             ["typescript", "patch:typescript@npm%3A5.0.4#~builtin<compat/typescript>::version=5.0.4&hash=85af82"],\
             ["vite", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:5.0.7"],\
             ["vitest", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:1.0.4"],\
@@ -4925,25 +4881,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["miniflare", [\
-        ["npm:3.20231030.0", {\
-          "packageLocation": "./.yarn/cache/miniflare-npm-3.20231030.0-406e131bcf-506a143f86.zip/node_modules/miniflare/",\
-          "packageDependencies": [\
-            ["miniflare", "npm:3.20231030.0"],\
-            ["acorn", "npm:8.8.2"],\
-            ["acorn-walk", "npm:8.2.0"],\
-            ["capnp-ts", "npm:0.7.0"],\
-            ["exit-hook", "npm:2.2.1"],\
-            ["glob-to-regexp", "npm:0.4.1"],\
-            ["source-map-support", "npm:0.5.21"],\
-            ["stoppable", "npm:1.1.0"],\
-            ["undici", "npm:5.27.2"],\
-            ["workerd", "npm:1.20231030.0"],\
-            ["ws", "virtual:406e131bcf13079eb7eedaee643965ae075062bac4a7d44151c878d3c75413642a4a79a60f18ca5d8d44980fed1e98d7d11012280902abadfccfa4b4cd0f9c85#npm:8.13.0"],\
-            ["youch", "npm:3.2.3"],\
-            ["zod", "npm:3.22.4"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
         ["npm:3.20231218.0", {\
           "packageLocation": "./.yarn/cache/miniflare-npm-3.20231218.0-287287858d-9fff03f208.zip/node_modules/miniflare/",\
           "packageDependencies": [\
@@ -4957,7 +4894,26 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["stoppable", "npm:1.1.0"],\
             ["undici", "npm:5.27.2"],\
             ["workerd", "npm:1.20231218.0"],\
-            ["ws", "virtual:406e131bcf13079eb7eedaee643965ae075062bac4a7d44151c878d3c75413642a4a79a60f18ca5d8d44980fed1e98d7d11012280902abadfccfa4b4cd0f9c85#npm:8.13.0"],\
+            ["ws", "virtual:f592bce758c2754afe855892656ae53734adcf6d96299cd1ee5fbb7d94c8f09761064e8c4cece21444f68feb3e626d3a4f91e34b2233ba8fbdbf9e1f1a2d69c3#npm:8.13.0"],\
+            ["youch", "npm:3.2.3"],\
+            ["zod", "npm:3.22.4"]\
+          ],\
+          "linkType": "HARD"\
+        }],\
+        ["npm:3.20231218.1", {\
+          "packageLocation": "./.yarn/cache/miniflare-npm-3.20231218.1-f592bce758-cea643257a.zip/node_modules/miniflare/",\
+          "packageDependencies": [\
+            ["miniflare", "npm:3.20231218.1"],\
+            ["@cspotcode/source-map-support", "npm:0.8.1"],\
+            ["acorn", "npm:8.8.2"],\
+            ["acorn-walk", "npm:8.2.0"],\
+            ["capnp-ts", "npm:0.7.0"],\
+            ["exit-hook", "npm:2.2.1"],\
+            ["glob-to-regexp", "npm:0.4.1"],\
+            ["stoppable", "npm:1.1.0"],\
+            ["undici", "npm:5.27.2"],\
+            ["workerd", "npm:1.20231218.0"],\
+            ["ws", "virtual:f592bce758c2754afe855892656ae53734adcf6d96299cd1ee5fbb7d94c8f09761064e8c4cece21444f68feb3e626d3a4f91e34b2233ba8fbdbf9e1f1a2d69c3#npm:8.13.0"],\
             ["youch", "npm:3.2.3"],\
             ["zod", "npm:3.22.4"]\
           ],\
@@ -6181,17 +6137,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD"\
         }]\
       ]],\
-      ["source-map-support", [\
-        ["npm:0.5.21", {\
-          "packageLocation": "./.yarn/cache/source-map-support-npm-0.5.21-09ca99e250-43e98d700d.zip/node_modules/source-map-support/",\
-          "packageDependencies": [\
-            ["source-map-support", "npm:0.5.21"],\
-            ["buffer-from", "npm:1.1.2"],\
-            ["source-map", "npm:0.6.1"]\
-          ],\
-          "linkType": "HARD"\
-        }]\
-      ]],\
       ["sourcemap-codec", [\
         ["npm:1.4.8", {\
           "packageLocation": "./.yarn/cache/sourcemap-codec-npm-1.4.8-3a1a9e60b1-b57981c056.zip/node_modules/sourcemap-codec/",\
@@ -7109,18 +7054,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["workerd", [\
-        ["npm:1.20231030.0", {\
-          "packageLocation": "./.yarn/unplugged/workerd-npm-1.20231030.0-10f3f2d4ee/node_modules/workerd/",\
-          "packageDependencies": [\
-            ["workerd", "npm:1.20231030.0"],\
-            ["@cloudflare/workerd-darwin-64", "npm:1.20231030.0"],\
-            ["@cloudflare/workerd-darwin-arm64", "npm:1.20231030.0"],\
-            ["@cloudflare/workerd-linux-64", "npm:1.20231030.0"],\
-            ["@cloudflare/workerd-linux-arm64", "npm:1.20231030.0"],\
-            ["@cloudflare/workerd-windows-64", "npm:1.20231030.0"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
         ["npm:1.20231218.0", {\
           "packageLocation": "./.yarn/unplugged/workerd-npm-1.20231218.0-9e22e9ea5f/node_modules/workerd/",\
           "packageDependencies": [\
@@ -7187,10 +7120,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:406e131bcf13079eb7eedaee643965ae075062bac4a7d44151c878d3c75413642a4a79a60f18ca5d8d44980fed1e98d7d11012280902abadfccfa4b4cd0f9c85#npm:8.13.0", {\
-          "packageLocation": "./.yarn/__virtual__/ws-virtual-6ab84ff3c5/0/cache/ws-npm-8.13.0-26ffa3016a-53e991bbf9.zip/node_modules/ws/",\
+        ["virtual:f592bce758c2754afe855892656ae53734adcf6d96299cd1ee5fbb7d94c8f09761064e8c4cece21444f68feb3e626d3a4f91e34b2233ba8fbdbf9e1f1a2d69c3#npm:8.13.0", {\
+          "packageLocation": "./.yarn/__virtual__/ws-virtual-bf940052c9/0/cache/ws-npm-8.13.0-26ffa3016a-53e991bbf9.zip/node_modules/ws/",\
           "packageDependencies": [\
-            ["ws", "virtual:406e131bcf13079eb7eedaee643965ae075062bac4a7d44151c878d3c75413642a4a79a60f18ca5d8d44980fed1e98d7d11012280902abadfccfa4b4cd0f9c85#npm:8.13.0"],\
+            ["ws", "virtual:f592bce758c2754afe855892656ae53734adcf6d96299cd1ee5fbb7d94c8f09761064e8c4cece21444f68feb3e626d3a4f91e34b2233ba8fbdbf9e1f1a2d69c3#npm:8.13.0"],\
             ["@types/bufferutil", null],\
             ["@types/utf-8-validate", null],\
             ["bufferutil", null],\
