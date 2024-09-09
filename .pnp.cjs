@@ -44,7 +44,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["itty-router", "npm:4.0.14"],\
             ["miniflare", "npm:3.20231218.2"],\
             ["typescript", "patch:typescript@npm%3A5.0.4#~builtin<compat/typescript>::version=5.0.4&hash=85af82"],\
-            ["vite", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:5.4.2"],\
+            ["vite", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:5.4.3"],\
             ["vitest", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:1.0.4"],\
             ["vitest-environment-miniflare", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:2.14.1"],\
             ["wrangler", "npm:3.22.2"]\
@@ -2601,7 +2601,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["itty-router", "npm:4.0.14"],\
             ["miniflare", "npm:3.20231218.2"],\
             ["typescript", "patch:typescript@npm%3A5.0.4#~builtin<compat/typescript>::version=5.0.4&hash=85af82"],\
-            ["vite", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:5.4.2"],\
+            ["vite", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:5.4.3"],\
             ["vitest", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:1.0.4"],\
             ["vitest-environment-miniflare", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:2.14.1"],\
             ["wrangler", "npm:3.22.2"]\
@@ -5907,10 +5907,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:8.4.41", {\
-          "packageLocation": "./.yarn/cache/postcss-npm-8.4.41-1607021b28-f865894929.zip/node_modules/postcss/",\
+        ["npm:8.4.45", {\
+          "packageLocation": "./.yarn/cache/postcss-npm-8.4.45-c84345b3d1-3223cdad4a.zip/node_modules/postcss/",\
           "packageDependencies": [\
-            ["postcss", "npm:8.4.41"],\
+            ["postcss", "npm:8.4.45"],\
             ["nanoid", "npm:3.3.7"],\
             ["picocolors", "npm:1.0.1"],\
             ["source-map-js", "npm:1.2.0"]\
@@ -7133,10 +7133,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "SOFT"\
         }],\
-        ["npm:5.4.2", {\
-          "packageLocation": "./.yarn/cache/vite-npm-5.4.2-65a106d8cf-7d25c1b236.zip/node_modules/vite/",\
+        ["npm:5.4.3", {\
+          "packageLocation": "./.yarn/cache/vite-npm-5.4.3-3f5dd494bf-3a28bcb093.zip/node_modules/vite/",\
           "packageDependencies": [\
-            ["vite", "npm:5.4.2"]\
+            ["vite", "npm:5.4.3"]\
           ],\
           "linkType": "SOFT"\
         }],\
@@ -7179,10 +7179,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:5.4.2", {\
-          "packageLocation": "./.yarn/__virtual__/vite-virtual-81df9d1e6c/0/cache/vite-npm-5.4.2-65a106d8cf-7d25c1b236.zip/node_modules/vite/",\
+        ["virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:5.4.3", {\
+          "packageLocation": "./.yarn/__virtual__/vite-virtual-191316dfd0/0/cache/vite-npm-5.4.3-3f5dd494bf-3a28bcb093.zip/node_modules/vite/",\
           "packageDependencies": [\
-            ["vite", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:5.4.2"],\
+            ["vite", "virtual:86bcbf2f49c3ce853f2baa4212816238492b34610f44f2bca769e480ac063c56205b71a2d6543f5b42d815fab8523625a91c6da14cf34512eccd72f9a586f38f#npm:5.4.3"],\
             ["@types/less", null],\
             ["@types/lightningcss", null],\
             ["@types/node", null],\
@@ -7195,7 +7195,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["fsevents", "patch:fsevents@npm%3A2.3.3#~builtin<compat/fsevents>::version=2.3.3&hash=df0bf1"],\
             ["less", null],\
             ["lightningcss", null],\
-            ["postcss", "npm:8.4.41"],\
+            ["postcss", "npm:8.4.45"],\
             ["rollup", "npm:4.21.0"],\
             ["sass", null],\
             ["sass-embedded", null],\
