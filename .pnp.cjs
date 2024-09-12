@@ -5807,10 +5807,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["path-to-regexp", [\
-        ["npm:6.2.1", {\
-          "packageLocation": "./.yarn/cache/path-to-regexp-npm-6.2.1-8ebfe03654-f0227af828.zip/node_modules/path-to-regexp/",\
+        ["npm:6.3.0", {\
+          "packageLocation": "./.yarn/cache/path-to-regexp-npm-6.3.0-ee2cdde576-eca78602e6.zip/node_modules/path-to-regexp/",\
           "packageDependencies": [\
-            ["path-to-regexp", "npm:6.2.1"]\
+            ["path-to-regexp", "npm:6.3.0"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -7453,7 +7453,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["fsevents", "patch:fsevents@npm%3A2.3.2#~builtin<compat/fsevents>::version=2.3.2&hash=df0bf1"],\
             ["miniflare", "npm:3.20231218.0"],\
             ["nanoid", "npm:3.3.6"],\
-            ["path-to-regexp", "npm:6.2.1"],\
+            ["path-to-regexp", "npm:6.3.0"],\
             ["resolve.exports", "npm:2.0.2"],\
             ["selfsigned", "npm:2.1.1"],\
             ["source-map", "npm:0.6.1"],\
