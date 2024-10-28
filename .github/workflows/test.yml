@@ -15,7 +15,7 @@ jobs:
           - "18"
     steps:
       - uses: actions/checkout@v4.1.6
-      - uses: actions/setup-node@v4.0.3
+      - uses: actions/setup-node@v4.1.0
         with:
           node-version: ${{ matrix.node-version }}
           cache: yarn
