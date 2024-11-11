@@ -38,7 +38,7 @@
     "eslint-plugin-promise": "^6.1.1",
     "miniflare": "^3.20231218.2",
     "typescript": "*",
-    "vite": "^5.4.2",
+    "vite": "^5.4.11",
     "vitest": "^1.0.4",
     "vitest-environment-miniflare": "^2.14.1",
     "wrangler": "^3.19.0"
