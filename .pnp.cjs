@@ -2766,10 +2766,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["cross-spawn", [\
-        ["npm:7.0.3", {\
-          "packageLocation": "./.yarn/cache/cross-spawn-npm-7.0.3-e4ff3e65b3-671cc7c728.zip/node_modules/cross-spawn/",\
+        ["npm:7.0.6", {\
+          "packageLocation": "./.yarn/cache/cross-spawn-npm-7.0.6-264bddf921-8d306efaca.zip/node_modules/cross-spawn/",\
           "packageDependencies": [\
-            ["cross-spawn", "npm:7.0.3"],\
+            ["cross-spawn", "npm:7.0.6"],\
             ["path-key", "npm:3.1.1"],\
             ["shebang-command", "npm:2.0.0"],\
             ["which", "npm:2.0.2"]\
@@ -3276,7 +3276,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@nodelib/fs.walk", "npm:1.2.8"],\
             ["ajv", "npm:6.12.6"],\
             ["chalk", "npm:4.1.2"],\
-            ["cross-spawn", "npm:7.0.3"],\
+            ["cross-spawn", "npm:7.0.6"],\
             ["debug", "virtual:feb0771c9f8eadaf509cfed41e14a8bebbea5442233275c1c87085111077a08ef71eb773b899665b154d8203a55a489610a54117ae059fce5f5b8b844493b1b1#npm:4.3.4"],\
             ["doctrine", "npm:3.0.0"],\
             ["escape-string-regexp", "npm:4.0.0"],\
@@ -3671,7 +3671,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/execa-npm-6.1.0-be1d7f323b-1a4af79983.zip/node_modules/execa/",\
           "packageDependencies": [\
             ["execa", "npm:6.1.0"],\
-            ["cross-spawn", "npm:7.0.3"],\
+            ["cross-spawn", "npm:7.0.6"],\
             ["get-stream", "npm:6.0.1"],\
             ["human-signals", "npm:3.0.1"],\
             ["is-stream", "npm:3.0.0"],\
@@ -3687,7 +3687,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/execa-npm-8.0.1-0211bd404c-cac1bf8658.zip/node_modules/execa/",\
           "packageDependencies": [\
             ["execa", "npm:8.0.1"],\
-            ["cross-spawn", "npm:7.0.3"],\
+            ["cross-spawn", "npm:7.0.6"],\
             ["get-stream", "npm:8.0.1"],\
             ["human-signals", "npm:5.0.0"],\
             ["is-stream", "npm:3.0.0"],\
